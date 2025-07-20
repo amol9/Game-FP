@@ -1,0 +1,3 @@
+I have created a local git repo and have committed the code. I have also created a repo on GitHub. But, the push is not  happening.
+
+Like you can see, the effort to record this was worth it. I could somehow go to the command and highlight it using my mouse, and, hence found the source of the problem. The source was the typo. Upon correcting it, the push was done.
