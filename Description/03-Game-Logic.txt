@@ -1,0 +1,21 @@
+I am looking to get into the game development. I have Unreal Engine installed. It has a studio. It lets you create a world. I checked out the studio. I could play the world, as in I could move around in it. But, the next part, the game logic comes to mind. How to add game logic to it?
+
+I searched for it. And, what I got, was an AI generated answer, which told me how to 'add program to the world' and then there were links to 'add 2 numbers program'. It is not what I want.
+
+Then, I tried to take a guess. I guess, the studio lets you create the world; the players, the objects, etc. But, it is not meant for adding the game logic. There may be some kind of framework that sits between the world model and the game logic. This framework might have facilities to add logic to the world. My primary guess is that, it may be a simple operation to add basic logic to the world, it may be in the form of adding values to certain parameters. The parameters may be for health, walking speed, ammo, etc. It may be as simple as putting numbers for these parameters.
+E.g.
+Player.hit(20)
+Player.headshot(90)
+Gun.Pistol.ammo(20, 60)
+For:
+Reduce player health by 20 on a hit.
+Reduce player health by 90 on a headshot.
+Pistol magazine capacity of 20 with maximum extra ammo of 60.
+
+How to find such a framework, if one is available? I might search the Internet, or, there is another option, look into the game repos.
+
+Let's see a game repo.
+
+I could not find any game repo. There may be something available on the unreal website, here, https://www.unrealengine.com/en-US/uses/games.
+
+I am going to stop now.
